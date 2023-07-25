@@ -1,0 +1,22 @@
+body{
+    background-color: grey;
+}
+h1{
+    background-color: darkolivegreen;
+    color: greenyellow;
+    font-family:'Franklin Gothic Medium';
+    border: 2px solid;
+    margin: 50px;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    border:2px solid blanchedalmond;
+    font-size: 160%;
+}
+
+
+a{
+    color:greenyellow;
+}
